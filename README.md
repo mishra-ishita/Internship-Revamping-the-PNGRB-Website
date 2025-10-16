@@ -1,4 +1,4 @@
-# Internship---Revamping-the-PNGRB-Website-PNGRB
+# Internship---Revamping-the-PNGRB-Website
 
 ## Overview
 This project focuses on the **redesign of the Petroleum and Natural Gas Regulatory Board (PNGRB)** website. The primary goal was to enhance the **user experience (UX)**, **accessibility**, and **visual appeal** of the platform to ensure smooth, intuitive navigation for all types of users.
